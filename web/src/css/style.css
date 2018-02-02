@@ -1,0 +1,20 @@
+ *{ 
+     margin: 0;
+     padding: 0;
+     list-style: none;
+}
+p{
+    float: left;
+    margin-left: 5px;
+}
+.wrap{
+    clear: both
+}
+.contant{
+    position:fixed;
+    width: 300px;
+    height: 200px;
+    background: #ccc;
+    /* display: none;  */
+    color: #fff;
+}

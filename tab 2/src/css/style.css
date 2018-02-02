@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
+.box{
+    width:600px;
+    height: 400px;
+    border: 1px solid #666;
+    margin: 20px auto;
+}
+.uli{
+    width:100%;
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+
+}
+.uli li{
+    width: 119px;
+    height: 100%;
+    border-right: 1px solid #ccc;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+}
+.oli{
+    width:100%;
+    height: 350px;
+    overflow: hidden;
+}
+.oli li{
+    float: left;
+    width:100%;
+    height: 100%;
+    line-height: 350px;
+    text-align: center;
+}
+.bg{
+    background: pink;
+}
